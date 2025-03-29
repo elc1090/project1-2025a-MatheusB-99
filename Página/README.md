@@ -4,9 +4,9 @@
 <img src="[assets/screenshot.png]"
 >
 
-
-Acesso: Substitua este texto pela URL para acesso ao site publicado
-
+### site
+[(https://67e7fff6e0266d426ac736e7--silver-nasturtium-17c3c1.netlify.app)]
+](site)
 
 #### Desenvolvedor(a)
 Matheus Bevilacqua-SI
@@ -20,7 +20,7 @@ Lorenzo Comunello-SI
 #### Site/app original
 
 ##### Link
-[https://irmaosbadin.blogspot.com/][Site escolhido pelo cliente]
+[https://irmaosbadin.blogspot.com/]
 
 ##### Descrição
 Um blog sobre um serviço de manutenção e venda de produtos tecnológico.
